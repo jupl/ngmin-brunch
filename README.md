@@ -1,5 +1,7 @@
 ## ngmin-brunch 1.7.0
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jupl/ngmin-brunch.svg)](https://greenkeeper.io/)
+
 [<img src="https://david-dm.org/jupl/ngmin-brunch.png"/>](https://david-dm.org/jupl/ngmin-brunch)
 [<img src="https://david-dm.org/jupl/ngmin-brunch/dev-status.png"/>](https://david-dm.org/jupl/ngmin-brunch#info=devDependencies)
 
